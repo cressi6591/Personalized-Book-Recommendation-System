@@ -1,0 +1,26 @@
+{
+"name": "personalized-book-recommendation-system",
+"version": "1.0.0",
+"description": "aims to develop a web application that offers tailored book suggestions to users based on their reading preferences, favorite genres, and reading history. ",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/cressi6591/Personalized-Book-Recommendation-System.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "cressi6591",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
